@@ -1,1 +1,1 @@
-# bg-remover
+# bg-remover tool
